@@ -1,9 +1,0 @@
-{
-  "name": "movie-app-demo",
-  "version": "1.0.0",
-  "description": "Test run at mobile movie app",
-  "main": "index.js",
-  "repository": "https://github.com/nj10deadend/movie-app-demo.git",
-  "author": "Naseer Jackson",
-  "license": "MIT"
-}
